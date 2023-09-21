@@ -2,15 +2,16 @@ raum:
 	sitze n
 	filme n
 	bildschirm 1
+	typ
 
 sitz:
 	zuschauer 0-1
-	flim 1
+	film 1
+	preis
 
 bildschirm:
 	typ
 	größe
-	alter
 
 film:
 	dauer
