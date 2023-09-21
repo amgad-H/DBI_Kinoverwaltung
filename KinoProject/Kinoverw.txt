@@ -1,0 +1,48 @@
+raum:
+	sitze n
+	filme n
+	bildschirm 1
+
+sitz:
+	zuschauer 0-1
+	flim 1
+
+bildschirm:
+	typ
+	größe
+	alter
+
+film:
+	dauer
+	beginn
+	raum
+
+zuschauer:
+	id
+	sitze
+	rechnung
+
+snackbar:
+	snacks
+	öffnungszeit
+
+Kino:
+	ort 1-n
+	räume 1-n
+	snackbars 0-n
+	öffnungszeit n
+
+Rechnung:
+	preis gesamt
+	datum
+	snacks
+	filme
+
+snack:
+	preis
+	name
+
+öffnungszeit:
+	datum
+	beginn
+	ende
