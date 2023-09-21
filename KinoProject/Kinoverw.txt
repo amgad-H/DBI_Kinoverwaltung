@@ -21,7 +21,6 @@ film:
 zuschauer:
 	id
 	sitze
-	rechnung
 
 snackbar:
 	snacks
@@ -33,11 +32,11 @@ Kino:
 	snackbars 0-n
 	öffnungszeit n
 
-Rechnung:
+*Rechnung:
 	preis gesamt
 	datum
 	snacks
-	filme
+	filme*
 
 snack:
 	preis
