@@ -1,4 +1,4 @@
-# DBI_Kinoverwaltung
+# DBI Cinema Management
 
 ## Seats and Movies
 
@@ -19,4 +19,8 @@ This makes it easy to plan what movies to show throughout the day.
 ## Snack Bar Info
 
 Our system isn't just about rooms; it helps you manage your snack bars too. 
-You can find out when they're open, what snacks and drinks they offer, and how much they cost.
+You can find out what snacks and drinks they offer, and how much they cost.
+
+## Opening Times
+
+We know that knowing when your cinema and snack bars are open is crucial. That's why our system also includes opening times. You can see exactly when each cinema room is open for business and when snack bars are ready to serve your customers.
