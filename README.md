@@ -1,15 +1,22 @@
 # DBI_Kinoverwaltung
 
-## Manager:
+## Seats and Movies
 
-- I want an overview of the rooms and snackbars at my cinema.
+Knowing how many empty seats you have and which movie is playing in each room is super important. 
+Our system lets you check how many seats are still available in each room and what movie is showing. This helps you plan and make sure your customers have a great time.
 
-- I want to see whether the seats of a room are already booked and for which movie.
+## Screen Details
 
-- I want to see which screen (type, size) is in which room.
+Not all cinema screens are the same. Some are big, some are small, and some show 3D movies. 
+Our system tells you all about the screens in each room. So when you're picking movies to show, you'll know which room is the best fit.
 
-- I want to see which movie is shown in which room, at what time and the duration.
+## Movie Schedule
 
-- I want to see the opening hours of the snackbars and the snacks and drinks that are available
+Your movie schedule is like the heartbeat of your cinema. 
+With our system, you can see all your movie showtimes, titles, and how long each movie lasts. 
+This makes it easy to plan what movies to show throughout the day.
 
-- I want to know the prices of the snacks and drinks.
+## Snack Bar Info
+
+Our system isn't just about rooms; it helps you manage your snack bars too. 
+You can find out when they're open, what snacks and drinks they offer, and how much they cost.
