@@ -1,49 +1,40 @@
-raum:
+#raum:
 	sitze n
-	filme n
-	bildschirm 1
-	typ
+	*filme n
+	*bildschirm 1
+	Kategorie
 
-sitz:
+#sitz:
 	zuschauer 0-1
 	film 1
 	preis
 
-bildschirm:
-	typ
-	größe
-
-film:
+#film:
 	dauer
 	beginn
 	raum
 
-zuschauer:
+zuschauer: (Nicht nötig soweit)
 	id
 	sitze
 	rechnung
 
-snackbar:
-	snacks
-	öffnungszeit
-
-Kino:
-	ort 1-n
+#Kino:
+	ort 
 	räume 1-n
-	snackbars 0-n
+	*snackbars 0-n
 	öffnungszeit n
 
-Rechnung:
+*Rechnung:
 	preis gesamt
 	datum
 	snacks
 	filme
 
-snack:
-	preis
-	name
-
-öffnungszeit:
+#öffnungszeit:
 	datum
 	beginn
 	ende
+
+#Kategorie:
+	typ
