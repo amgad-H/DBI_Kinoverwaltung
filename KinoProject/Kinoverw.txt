@@ -17,7 +17,6 @@
 zuschauer: (Nicht nötig soweit)
 	id
 	sitze
-	rechnung
 
 #Kino:
 	ort 
@@ -29,7 +28,7 @@ zuschauer: (Nicht nötig soweit)
 	preis gesamt
 	datum
 	snacks
-	filme
+	filme*
 
 #öffnungszeit:
 	datum
